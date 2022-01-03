@@ -16,7 +16,6 @@ public class NormalUser implements User {
 
     // --- getters and setters ------------------------------------------------
 
-
     @Override
     public String getEmail() { return email; }
 
